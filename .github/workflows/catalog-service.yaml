@@ -6,7 +6,7 @@ on:
       - catalog-service/**
     branches:
       - '**'
-      -
+
 jobs:
   build:
     runs-on: ubuntu-latest
