@@ -1,2 +1,2 @@
 # bookstore-microservice
-spring boot microservice poject
+spring boot microservice project
