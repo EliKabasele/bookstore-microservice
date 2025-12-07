@@ -1,4 +1,4 @@
-package com.elikabasele.catalog_service;
+package com.elikabasele.bookstore.catalog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.test.context.TestConfiguration;

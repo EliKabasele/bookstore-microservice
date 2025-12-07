@@ -1,4 +1,4 @@
-package com.elikabasele.catalog_service;
+package com.elikabasele.bookstore.catalog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
